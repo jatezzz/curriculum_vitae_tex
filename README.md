@@ -1,2 +1,2 @@
 # curriculum_vitae_tex
-Curriculum vitae written on text
+Curriculum vitae written on TeX.
